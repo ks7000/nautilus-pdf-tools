@@ -80,6 +80,13 @@ Common required dependencies,
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/atareao/nautilus-pdf-tools/issues).
 
+### Collaborators
+
+👤 **Jimmy Olano S. &lt;a.k.a. ks7000&gt;**
+* Twitter: [@ks7000](https://twitter.com/ks7000)
+* Github: [@ks7000](https://github.com/ks7000)
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
