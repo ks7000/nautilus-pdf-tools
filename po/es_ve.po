@@ -1,0 +1,798 @@
+# Spanish translations for nautilus-PDF-tools package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the nautilus-PDF-tools package.
+# atareao <lorenzo.carbonell.cerezo@gmail.com>, 2012.
+# collaborator ks7000 <olano@ks7000.net.ve>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-PDF-tools 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-06 09:07+0200\n"
+"PO-Revision-Date: 2012-02-26 19:31+0100\n"
+"Last-Translator: ks7000 <olano@ks7000.net.ve>\n"
+"Language-Team: Spanish\n"
+"Language: es_ve\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/nautilus-PDF-tools.py:108 src/nautilus-PDF-tools.py:186
+#: src/nautilus-PDF-tools.py:226
+msgid "PDF Tools"
+msgstr "Herramientas PDF"
+
+#: src/nautilus-PDF-tools.py:109 src/nautilus-PDF-tools.py:187
+msgid "Tools to manipulate PDF files"
+msgstr "Un conjunto de herramientas para trabajar con PDF"
+
+#: src/nautilus-PDF-tools.py:115
+msgid "Rotate and flip"
+msgstr "Girar y voltear"
+
+#: src/nautilus-PDF-tools.py:115
+msgid "rotate_and_flip PDF files"
+msgstr "Girar y voltear archivos "
+
+#: src/nautilus-PDF-tools.py:117 src/PDF-tools/watermarkdialog.py:44
+#: src/PDF-tools/watermarkdialog.py:80 src/PDF-tools/watermarkdialog.py:86
+msgid "Watermark"
+msgstr "Marca de agua"
+
+#: src/nautilus-PDF-tools.py:117
+#, fuzzy
+msgid "Watermark PDF files"
+msgstr "Selecciona uno o más archivos PDF con marca de agua"
+
+#: src/nautilus-PDF-tools.py:119 src/PDF-tools/textmarkdialog.py:45
+#: src/PDF-tools/textmarkdialog.py:88 src/PDF-tools/textmarkdialog.py:102
+msgid "Textmark"
+msgstr "Marca de texto"
+
+#: src/nautilus-PDF-tools.py:119
+msgid "Textmark PDF files"
+msgstr "Marca archivos con texto"
+
+#: src/nautilus-PDF-tools.py:121 src/PDF-tools/paginatedialog.py:45
+msgid "Paginate"
+msgstr "Paginación"
+
+#: src/nautilus-PDF-tools.py:121
+msgid "Paginate PDF files"
+msgstr "Pagina archivos PDF"
+
+#: src/nautilus-PDF-tools.py:123 src/PDF-tools/signdialog.py:44
+msgid "Sign"
+msgstr "Firma"
+
+#: src/nautilus-PDF-tools.py:123
+#, fuzzy
+msgid "Sign PDF files"
+msgstr "Une archivos PDF"
+
+#: src/nautilus-PDF-tools.py:128
+msgid "Remove pages"
+msgstr "Quita páginas"
+
+#: src/nautilus-PDF-tools.py:129
+msgid "Remove pages of the document files"
+msgstr "Quita algunas páginas del documento"
+
+#: src/nautilus-PDF-tools.py:131
+msgid "Extract pages"
+msgstr "Extrae páginas"
+
+#: src/nautilus-PDF-tools.py:132
+msgid "Extract pages of the document files"
+msgstr "Extrae páginas del documento"
+
+#: src/nautilus-PDF-tools.py:134
+msgid "Join PDF files"
+msgstr "Une archivos PDF"
+
+#: src/nautilus-PDF-tools.py:135
+msgid "Join PDF files in one document"
+msgstr "Une archivos PDF en un único documento"
+
+#: src/nautilus-PDF-tools.py:137
+msgid "Split PDF files"
+msgstr "Separa un archivo PDF"
+
+#: src/nautilus-PDF-tools.py:138
+msgid "Split a PDF in several documents"
+msgstr "Separa un archivo PDF en varios documentos"
+
+#: src/nautilus-PDF-tools.py:140
+msgid "Combine PDF pages"
+msgstr "Combina varias páginas por hoja"
+
+#: src/nautilus-PDF-tools.py:141
+msgid "Combine PDF pages in one page"
+msgstr "Combina varias páginas en una única"
+
+#: src/nautilus-PDF-tools.py:143
+msgid "Reduce PDF size"
+msgstr "Reduce el tamaño del PDF"
+
+#: src/nautilus-PDF-tools.py:145
+msgid "Resize PDF pages"
+msgstr "Redimensiona páginas"
+
+#: src/nautilus-PDF-tools.py:147
+msgid "Convert PDF to png"
+msgstr "Convertir PDF a png"
+
+#: src/nautilus-PDF-tools.py:148
+msgid "Convert PDF file to png image"
+msgstr "Convertir un archivo PDF a imágenes png"
+
+#: src/nautilus-PDF-tools.py:150
+msgid "Encrypt"
+msgstr "Cifrado"
+
+#: src/nautilus-PDF-tools.py:151
+msgid "Encrypt PDF files"
+msgstr "Cifrado de archivos PDF"
+
+#: src/nautilus-PDF-tools.py:153
+msgid "Decrypt"
+msgstr "Descifra"
+
+#: src/nautilus-PDF-tools.py:154
+msgid "Decrypt PDF files"
+msgstr "Descifra archivos PDF"
+
+#: src/nautilus-PDF-tools.py:176 src/nautilus-PDF-tools.py:177
+#: src/nautilus-PDF-tools.py:212 src/nautilus-PDF-tools.py:213
+msgid "About"
+msgstr "Acerca de..."
+
+#: src/nautilus-PDF-tools.py:192
+msgid "Convert to PDF"
+msgstr "Convertir a PDF"
+
+#: src/nautilus-PDF-tools.py:193
+msgid "Convert images to PDF"
+msgstr "Convertir imágenes a un PDF"
+
+#: src/PDF-tools/basedialogwithapply.py:54
+msgid "Clear or apply to"
+msgstr "Limpiar o aplicar a"
+
+#: src/PDF-tools/basedialogwithapply.py:56
+msgid "This page"
+msgstr "Esta página"
+
+#: src/PDF-tools/basedialogwithapply.py:58
+msgid "All"
+msgstr "Todo"
+
+#: src/PDF-tools/basedialogwithapply.py:63
+msgid "Range"
+msgstr "Rango"
+
+#: src/PDF-tools/basedialogwithapply.py:71
+msgid "Clear"
+msgstr "Limpiar"
+
+#: src/PDF-tools/basedialogwithapply.py:74
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src/PDF-tools/basedialog.py:210 src/PDF-tools/basedialog.py:256
+#, fuzzy
+msgid "First page"
+msgstr "Primera página a extraer"
+
+#: src/PDF-tools/basedialog.py:213 src/PDF-tools/basedialog.py:260
+msgid "Previous page"
+msgstr "Paǵina previa"
+
+#: src/PDF-tools/basedialog.py:220 src/PDF-tools/basedialog.py:266
+msgid "Current_page"
+msgstr "Página actual"
+
+#: src/PDF-tools/basedialog.py:224 src/PDF-tools/basedialog.py:270
+#, fuzzy
+msgid "Next page"
+msgstr "Extrae páginas"
+
+#: src/PDF-tools/basedialog.py:228 src/PDF-tools/basedialog.py:274
+#, fuzzy
+msgid "Last page"
+msgstr "ültima página"
+
+#: src/PDF-tools/basedialog.py:235
+msgid "Options"
+msgstr "Opciones"
+
+#: src/PDF-tools/joinPDFsdialog.py:51
+#: src/PDF-tools/createPDFfromImagesdialog.py:66
+#: src/PDF-tools/selectpagesdialog.py:61
+msgid "Output file"
+msgstr "Archivo de salida"
+
+#: src/PDF-tools/joinPDFsdialog.py:52
+#: src/PDF-tools/createPDFfromImagesdialog.py:67
+#: src/PDF-tools/selectpagesdialog.py:62
+msgid "Select the output file"
+msgstr "Selecciona un archivo de salida"
+
+#: src/PDF-tools/joinPDFsdialog.py:86
+#: src/PDF-tools/createPDFfromImagesdialog.py:167
+msgid "Up"
+msgstr "Arriba"
+
+#: src/PDF-tools/joinPDFsdialog.py:94
+#: src/PDF-tools/createPDFfromImagesdialog.py:175
+msgid "Down"
+msgstr "Abajo"
+
+#: src/PDF-tools/joinPDFsdialog.py:102
+#: src/PDF-tools/createPDFfromImagesdialog.py:183
+msgid "Add"
+msgstr "Añadir"
+
+#: src/PDF-tools/joinPDFsdialog.py:110
+#: src/PDF-tools/createPDFfromImagesdialog.py:191
+msgid "Remove"
+msgstr "Quitar"
+
+#: src/PDF-tools/joinPDFsdialog.py:134 src/PDF-tools/combinedialog.py:165
+#: src/PDF-tools/createPDFfromImagesdialog.py:215
+#: src/PDF-tools/selectpagesdialog.py:75
+msgid "Select file to save new file"
+msgstr "Selecciona el archivo para guardar el documento"
+
+#: src/PDF-tools/joinPDFsdialog.py:169
+#: src/PDF-tools/createPDFfromImagesdialog.py:250
+msgid "Select one or more PDF files"
+msgstr "Selecciona uno o mas archivos PDF"
+
+#: src/PDF-tools/joinPDFsdialog.py:180 src/PDF-tools/tools.py:128
+msgid "PDF files"
+msgstr "Archivos PDF"
+
+#: src/PDF-tools/reducedialog.py:44
+msgid "Image resolution"
+msgstr "Resolución de imagen"
+
+#: src/PDF-tools/reducedialog.py:48 src/PDF-tools/resizedialog.py:53
+#: src/PDF-tools/combinedialog.py:70
+msgid "Append to file"
+msgstr "Añadir al archivo"
+
+#: src/PDF-tools/reducedialog.py:53
+#, fuzzy
+msgid "Set dpi to reduce file"
+msgstr "Selecciona el archivo para guardar el documento"
+
+#: src/PDF-tools/reducedialog.py:61 src/PDF-tools/resizedialog.py:115
+#: src/PDF-tools/combinedialog.py:159
+msgid "Append to file to create output filename"
+msgstr "Añade al nombre del archivo para crear el archivo de salida"
+
+#: src/PDF-tools/resizedialog.py:45 src/PDF-tools/combinedialog.py:46
+#: src/PDF-tools/createPDFfromImagesdialog.py:51
+msgid "Paper size"
+msgstr "Tamaño de hoja"
+
+#: src/PDF-tools/resizedialog.py:49 src/PDF-tools/combinedialog.py:50
+#: src/PDF-tools/createPDFfromImagesdialog.py:56
+msgid "Orientation"
+msgstr "Orientación"
+
+#: src/PDF-tools/resizedialog.py:58 src/PDF-tools/combinedialog.py:75
+#: src/PDF-tools/createPDFfromImagesdialog.py:72
+msgid "A0"
+msgstr "A0"
+
+#: src/PDF-tools/resizedialog.py:59 src/PDF-tools/combinedialog.py:76
+#: src/PDF-tools/createPDFfromImagesdialog.py:73
+msgid "A1"
+msgstr "A1"
+
+#: src/PDF-tools/resizedialog.py:60 src/PDF-tools/combinedialog.py:77
+#: src/PDF-tools/createPDFfromImagesdialog.py:74
+msgid "A2"
+msgstr "A2"
+
+#: src/PDF-tools/resizedialog.py:61 src/PDF-tools/combinedialog.py:78
+#: src/PDF-tools/createPDFfromImagesdialog.py:75
+msgid "A3"
+msgstr "A3"
+
+#: src/PDF-tools/resizedialog.py:62 src/PDF-tools/combinedialog.py:79
+#: src/PDF-tools/createPDFfromImagesdialog.py:76
+msgid "A4"
+msgstr "A4"
+
+#: src/PDF-tools/resizedialog.py:63 src/PDF-tools/combinedialog.py:80
+#: src/PDF-tools/createPDFfromImagesdialog.py:77
+msgid "A5"
+msgstr "A5"
+
+#: src/PDF-tools/resizedialog.py:64 src/PDF-tools/combinedialog.py:81
+#: src/PDF-tools/createPDFfromImagesdialog.py:78
+msgid "A6"
+msgstr "A6"
+
+#: src/PDF-tools/resizedialog.py:65 src/PDF-tools/combinedialog.py:82
+#: src/PDF-tools/createPDFfromImagesdialog.py:79
+msgid "A7"
+msgstr "A7"
+
+#: src/PDF-tools/resizedialog.py:66 src/PDF-tools/combinedialog.py:83
+#: src/PDF-tools/createPDFfromImagesdialog.py:80
+msgid "A8"
+msgstr "A8"
+
+#: src/PDF-tools/resizedialog.py:67 src/PDF-tools/combinedialog.py:84
+#: src/PDF-tools/createPDFfromImagesdialog.py:81
+msgid "A9"
+msgstr "A9"
+
+#: src/PDF-tools/resizedialog.py:68 src/PDF-tools/combinedialog.py:85
+#: src/PDF-tools/createPDFfromImagesdialog.py:82
+msgid "A10"
+msgstr "A10"
+
+#: src/PDF-tools/resizedialog.py:69 src/PDF-tools/combinedialog.py:86
+#: src/PDF-tools/createPDFfromImagesdialog.py:83
+msgid "B0"
+msgstr "B0"
+
+#: src/PDF-tools/resizedialog.py:70 src/PDF-tools/combinedialog.py:87
+#: src/PDF-tools/createPDFfromImagesdialog.py:84
+msgid "B1"
+msgstr "B1"
+
+#: src/PDF-tools/resizedialog.py:71 src/PDF-tools/combinedialog.py:88
+#: src/PDF-tools/createPDFfromImagesdialog.py:85
+msgid "B2"
+msgstr "B2"
+
+#: src/PDF-tools/resizedialog.py:72 src/PDF-tools/combinedialog.py:89
+#: src/PDF-tools/createPDFfromImagesdialog.py:86
+msgid "B3"
+msgstr "B3"
+
+#: src/PDF-tools/resizedialog.py:73 src/PDF-tools/combinedialog.py:90
+#: src/PDF-tools/createPDFfromImagesdialog.py:87
+msgid "B4"
+msgstr "B4"
+
+#: src/PDF-tools/resizedialog.py:74 src/PDF-tools/combinedialog.py:91
+#: src/PDF-tools/createPDFfromImagesdialog.py:88
+msgid "B5"
+msgstr "B5"
+
+#: src/PDF-tools/resizedialog.py:75 src/PDF-tools/combinedialog.py:92
+#: src/PDF-tools/createPDFfromImagesdialog.py:89
+msgid "B6"
+msgstr "B6"
+
+#: src/PDF-tools/resizedialog.py:76 src/PDF-tools/combinedialog.py:93
+#: src/PDF-tools/createPDFfromImagesdialog.py:90
+msgid "B7"
+msgstr "B7"
+
+#: src/PDF-tools/resizedialog.py:77 src/PDF-tools/combinedialog.py:94
+#: src/PDF-tools/createPDFfromImagesdialog.py:91
+msgid "B8"
+msgstr "B8"
+
+#: src/PDF-tools/resizedialog.py:78 src/PDF-tools/combinedialog.py:95
+#: src/PDF-tools/createPDFfromImagesdialog.py:92
+msgid "B9"
+msgstr "B9"
+
+#: src/PDF-tools/resizedialog.py:79 src/PDF-tools/combinedialog.py:96
+#: src/PDF-tools/createPDFfromImagesdialog.py:93
+msgid "B10"
+msgstr "B10"
+
+#: src/PDF-tools/resizedialog.py:80 src/PDF-tools/combinedialog.py:97
+#: src/PDF-tools/createPDFfromImagesdialog.py:94
+msgid "Letter (8 1/2x11)"
+msgstr "Carta (8 1/2x11)"
+
+#: src/PDF-tools/resizedialog.py:81 src/PDF-tools/combinedialog.py:98
+#: src/PDF-tools/createPDFfromImagesdialog.py:95
+msgid "Note (8 1/2x11)"
+msgstr "Nota (8 1/2x11)"
+
+#: src/PDF-tools/resizedialog.py:82 src/PDF-tools/combinedialog.py:99
+#: src/PDF-tools/createPDFfromImagesdialog.py:96
+msgid "Legal (8 1/2x14)"
+msgstr "Legal (8 1/2x14)"
+
+#: src/PDF-tools/resizedialog.py:83 src/PDF-tools/combinedialog.py:100
+#: src/PDF-tools/createPDFfromImagesdialog.py:97
+msgid "Executive (8 1/4x10 1/2)"
+msgstr "Ejecutivo (8 1/4x10 1/2)"
+
+#: src/PDF-tools/resizedialog.py:84 src/PDF-tools/combinedialog.py:101
+#: src/PDF-tools/createPDFfromImagesdialog.py:98
+msgid "Halfetter (5 1/2x8 1/2)"
+msgstr "Media carta (5 1/2x8 1/2)"
+
+#: src/PDF-tools/resizedialog.py:85 src/PDF-tools/combinedialog.py:102
+#: src/PDF-tools/createPDFfromImagesdialog.py:99
+msgid "Halfexecutive (5 1/4x7 1/4)"
+msgstr "Medio ejecutivo (5 1/4x7 1/4)"
+
+#: src/PDF-tools/resizedialog.py:86 src/PDF-tools/combinedialog.py:103
+#: src/PDF-tools/createPDFfromImagesdialog.py:100
+msgid "11x17 (11x17)"
+msgstr "11x17 (11x17)"
+
+#: src/PDF-tools/resizedialog.py:87 src/PDF-tools/combinedialog.py:104
+#: src/PDF-tools/createPDFfromImagesdialog.py:101
+msgid "Statement (5 1/2x8 1/2)"
+msgstr "Statement (5 1/2x8 1/2)"
+
+#: src/PDF-tools/resizedialog.py:88 src/PDF-tools/combinedialog.py:105
+#: src/PDF-tools/createPDFfromImagesdialog.py:102
+msgid "Folio (8 1/2x13)"
+msgstr "Folio (8 1/2x13)"
+
+#: src/PDF-tools/resizedialog.py:89 src/PDF-tools/combinedialog.py:106
+#: src/PDF-tools/createPDFfromImagesdialog.py:103
+msgid "10x14 (10x14)"
+msgstr "10x14 (10x14)"
+
+#: src/PDF-tools/resizedialog.py:90 src/PDF-tools/combinedialog.py:107
+#: src/PDF-tools/createPDFfromImagesdialog.py:104
+msgid "Ledger (17x11)"
+msgstr "Ledger (17x11)"
+
+#: src/PDF-tools/resizedialog.py:91 src/PDF-tools/combinedialog.py:108
+#: src/PDF-tools/createPDFfromImagesdialog.py:105
+msgid "Tabloid (11x17)"
+msgstr "Tabloid (11x17)"
+
+#: src/PDF-tools/resizedialog.py:93 src/PDF-tools/combinedialog.py:110
+#: src/PDF-tools/createPDFfromImagesdialog.py:52
+msgid "Select the size of the output file"
+msgstr "Selecciona tamaño del archivo de salida"
+
+#: src/PDF-tools/resizedialog.py:102 src/PDF-tools/resizedialog.py:138
+#: src/PDF-tools/flipdialog.py:98 src/PDF-tools/combinedialog.py:118
+#: src/PDF-tools/combinedialog.py:187
+#: src/PDF-tools/createPDFfromImagesdialog.py:114
+#: src/PDF-tools/createPDFfromImagesdialog.py:319
+msgid "Vertical"
+msgstr "Vertical"
+
+#: src/PDF-tools/resizedialog.py:103 src/PDF-tools/flipdialog.py:101
+#: src/PDF-tools/combinedialog.py:119
+#: src/PDF-tools/createPDFfromImagesdialog.py:115
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: src/PDF-tools/resizedialog.py:105 src/PDF-tools/combinedialog.py:121
+#: src/PDF-tools/createPDFfromImagesdialog.py:57
+msgid "Select the orientation of the page"
+msgstr "Selecciona la orientación de las páginas"
+
+#: src/PDF-tools/resizedialog.py:116
+msgid "_resized"
+msgstr "_redimensionado"
+
+#: src/PDF-tools/passworddialog.py:46
+msgid "Password"
+msgstr "Contrasña"
+
+#: src/PDF-tools/passworddialog.py:52
+msgid "Set password"
+msgstr "¿Contraseña?"
+
+#: src/PDF-tools/flipdialog.py:38
+msgid "Rotate and flid PDF"
+msgstr "Gira y voltea PDF"
+
+#: src/PDF-tools/flipdialog.py:79
+msgid "Rotate"
+msgstr "Gira"
+
+#: src/PDF-tools/flipdialog.py:95
+msgid "Flip"
+msgstr ""
+
+#: src/PDF-tools/flipdialog.py:105
+msgid "File name"
+msgstr ""
+
+#: src/PDF-tools/flipdialog.py:107
+#, fuzzy
+msgid "Add to file"
+msgstr "Añadir al archivo"
+
+#: src/PDF-tools/convertdialog.py:40 src/PDF-tools/convertdialog.py:52
+msgid "Convert to"
+msgstr "Convertir a"
+
+#: src/PDF-tools/convertdialog.py:50 src/PDF-tools/comun.py:132
+msgid "ALL"
+msgstr "TODO"
+
+#: src/PDF-tools/tools.py:153
+msgid "Text file"
+msgstr "Archivo de texto"
+
+#: src/PDF-tools/paginatedialog.py:81
+#, fuzzy
+msgid "Pagination"
+msgstr "Paginación"
+
+#: src/PDF-tools/paginatedialog.py:86 src/PDF-tools/textmarkdialog.py:94
+msgid "Font"
+msgstr ""
+
+#: src/PDF-tools/paginatedialog.py:91 src/PDF-tools/textmarkdialog.py:99
+msgid "Color"
+msgstr ""
+
+#: src/PDF-tools/combinedialog.py:54
+msgid "Pages in Page"
+msgstr "Paginas por hoja"
+
+#: src/PDF-tools/combinedialog.py:58
+msgid "by"
+msgstr "por"
+
+#: src/PDF-tools/combinedialog.py:62
+msgid "Sort"
+msgstr "Ordena"
+
+#: src/PDF-tools/combinedialog.py:66
+msgid "Set the margin"
+msgstr "Establece el margen"
+
+#: src/PDF-tools/combinedialog.py:129
+msgid "Select how many pages in a page"
+msgstr "Selecciona cuantas páginas por hoja"
+
+#: src/PDF-tools/combinedialog.py:135
+msgid "rows by columns"
+msgstr "filas por columnas"
+
+#: src/PDF-tools/combinedialog.py:141 src/PDF-tools/combinedialog.py:202
+msgid "By rows"
+msgstr "Por filas"
+
+#: src/PDF-tools/combinedialog.py:142
+msgid "By columns"
+msgstr "Por columnas"
+
+#: src/PDF-tools/combinedialog.py:144
+msgid "Select the combination sort"
+msgstr "Selecciona el orden de combinación"
+
+#: src/PDF-tools/combinedialog.py:152
+msgid "The margin to the page in mm"
+msgstr "Establece el margen en mm"
+
+#: src/PDF-tools/combinedialog.py:160
+msgid "_combined"
+msgstr "_combinado"
+
+#: src/PDF-tools/PDFmanager.py:67 src/PDF-tools/PDFmanager.py:79
+msgid "Resize PDF"
+msgstr "Redimensiona PDF"
+
+#: src/PDF-tools/PDFmanager.py:93 src/PDF-tools/PDFmanager.py:99
+msgid "Encrypt files"
+msgstr "Cifra archivos"
+
+#: src/PDF-tools/PDFmanager.py:112
+msgid "Decrypt files"
+msgstr "Descifra archivos"
+
+#: src/PDF-tools/PDFmanager.py:118
+msgid "Dencrypt files"
+msgstr "Cifra archivos"
+
+#: src/PDF-tools/PDFmanager.py:133
+msgid "Convert PDF to PNG"
+msgstr "Convertir PDF a PNG"
+
+#: src/PDF-tools/PDFmanager.py:147 src/PDF-tools/PDFmanager.py:163
+msgid "Combine PDF pages"
+msgstr "Combina páginas PDF"
+
+#: src/PDF-tools/PDFmanager.py:183 src/PDF-tools/PDFmanager.py:195
+msgid "Create PDF from images"
+msgstr "Crea PDF a partir de imágenes"
+
+#: src/PDF-tools/PDFmanager.py:220 src/PDF-tools/PDFmanager.py:226
+msgid "Join PDF files"
+msgstr "Une archivos PDF"
+
+#: src/PDF-tools/PDFmanager.py:253
+msgid "Paginate PDF"
+msgstr "Paginación de PDF"
+
+#: src/PDF-tools/PDFmanager.py:269
+#, fuzzy
+msgid "Reduce PDF"
+msgstr "Reduce el tamaño del PDF"
+
+#: src/PDF-tools/PDFmanager.py:276
+msgid "Reduce PDF size"
+msgstr "Reduce el tamaño del PDF"
+
+#: src/PDF-tools/PDFmanager.py:304
+msgid "Textmark PDF"
+msgstr "Marcado de texto de PDF"
+
+#: src/PDF-tools/PDFmanager.py:329
+msgid "Sign PDF"
+msgstr "Firma PDF"
+
+#: src/PDF-tools/PDFmanager.py:355
+msgid "Watermark PDF"
+msgstr "Marca de agua de PDF"
+
+#: src/PDF-tools/PDFmanager.py:379
+msgid "Rotate and flip PDF"
+msgstr "Gira y voltea PDF"
+
+#: src/PDF-tools/PDFmanager.py:398 src/PDF-tools/PDFmanager.py:405
+msgid "Remove PDF"
+msgstr "Quita PDF"
+
+#: src/PDF-tools/PDFmanager.py:422
+msgid "Split PDF"
+msgstr "Divide PDF"
+
+#: src/PDF-tools/PDFmanager.py:436 src/PDF-tools/PDFmanager.py:442
+msgid "Extract pages from PDF"
+msgstr "Extrae páginas de PDF"
+
+#: src/PDF-tools/PDFmanager.py:464
+msgid "Select file to save extracted text"
+msgstr "Selecciona el archivo para guardar el texto extraído"
+
+#: src/PDF-tools/createPDFfromImagesdialog.py:61
+msgid "Margen"
+msgstr "Margen"
+
+#: src/PDF-tools/createPDFfromImagesdialog.py:62
+msgid "Select the size of the margin"
+msgstr "Selecciona el tamaño del margen"
+
+#: src/PDF-tools/createPDFfromImagesdialog.py:124
+msgid "No margin"
+msgstr "Sin margen"
+
+#: src/PDF-tools/createPDFfromImagesdialog.py:125
+#: src/PDF-tools/createPDFfromImagesdialog.py:328
+msgid "small margin"
+msgstr "Margen pequeño"
+
+#: src/PDF-tools/createPDFfromImagesdialog.py:126
+#: src/PDF-tools/createPDFfromImagesdialog.py:330
+msgid "big margin"
+msgstr "Margen grande"
+
+#: src/PDF-tools/signdialog.py:71 src/PDF-tools/signdialog.py:83
+#, fuzzy
+msgid "Select signature file"
+msgstr "Selecciona un archivo de salida"
+
+#: src/PDF-tools/signdialog.py:76 src/PDF-tools/signdialog.py:82
+#, fuzzy
+msgid "Signature"
+msgstr "Firma"
+
+#: src/PDF-tools/signdialog.py:78 src/PDF-tools/watermarkdialog.py:82
+msgid "Zoom"
+msgstr ""
+
+#: src/PDF-tools/selectpagesdialog.py:49
+msgid "Pages"
+msgstr "Páginas"
+
+#: src/PDF-tools/selectpagesdialog.py:50 src/PDF-tools/selectpagesdialog.py:56
+msgid ""
+"Type page number and/or page\n"
+"ranges separated by commas\n"
+"counting from start of the\n"
+"document ej. 1,4,6-9"
+msgstr ""
+"Excribe el número de la página y/o el rango\n"
+"de las páginas separadas por comas empezando\n"
+"a contar desde el inicio del documento, por\n"
+"ejemplo 1,4,6-9"
+
+#: src/PDF-tools/watermarkdialog.py:75 src/PDF-tools/watermarkdialog.py:87
+#, fuzzy
+msgid "Select watermark file"
+msgstr "Selecciona uno o mas archivos PDF"
+
+#: src/PDF-tools/watermarkdialog.py:124
+msgid "Select one image"
+msgstr "Selecciona una imagen"
+
+#~ msgid "Rotate pages of the document files"
+#~ msgstr "Gira páginas de archivos PDF"
+
+#~ msgid "Nautilus PDF Tools"
+#~ msgstr "Herramientas PDF"
+
+#~ msgid "Select Pages"
+#~ msgstr "Páginas seleccionadas"
+
+#~ msgid "_flip_and_rotated"
+#~ msgstr "_volteado_y_girado"
+
+#~ msgid "Flip vertical"
+#~ msgstr "Volteo vertical"
+
+#~ msgid "Flip horizontal"
+#~ msgstr "Volteo horizontal"
+
+#~ msgid "Top"
+#~ msgstr "Superior"
+
+#~ msgid "Middle"
+#~ msgstr "Medio"
+
+#~ msgid "Bottom"
+#~ msgstr "Inferior"
+
+#~ msgid "Left"
+#~ msgstr "Izquierda"
+
+#~ msgid "Center"
+#~ msgstr "Centro"
+
+#~ msgid "Right"
+#~ msgstr "Derecha"
+
+#~ msgid "_paginated"
+#~ msgstr "_paginado"
+
+#~ msgid "Select font"
+#~ msgstr "Selecciona fuente"
+
+#~ msgid "Select color"
+#~ msgstr "Selecciona color"
+
+#~ msgid "Horizontal position"
+#~ msgstr "Posición horizontal"
+
+#~ msgid "Vertical position"
+#~ msgstr "Posición vertical"
+
+#~ msgid "Set horizontal margin"
+#~ msgstr "Establece el margen horizontal"
+
+#~ msgid "Set vertical margin"
+#~ msgstr "Establece el margen vertical"
+
+#~ msgid "_textmarked"
+#~ msgstr "_marcadetexto"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Rotate PDF"
+#~ msgstr "Gira PDF"
+
+#~ msgid "_signed"
+#~ msgstr "_firmado"
+
+#~ msgid "Choose File"
+#~ msgstr "Elige archivo"
+
+#~ msgid "sign zoom"
+#~ msgstr "Zoom de firma"
+
+#~ msgid "_watermarked"
+#~ msgstr "_marcadeagua"
+
+#~ msgid "Watermark zoom"
+#~ msgstr "Zoom para la marca de agua"
